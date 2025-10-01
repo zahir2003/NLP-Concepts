@@ -1,6 +1,6 @@
 # NLP Concepts & Projects 🚀
 
-Welcome to my Natural Language Processing (NLP) portfolio! This repository showcases a wide range of NLP techniques, feature engineering, and machine learning approaches, all implemented in Python. Each notebook demonstrates practical, real-world applications.
+Welcome to my Natural Language Processing (NLP) portfolio! This repository showcases a wide range of NLP techniques, feature engineering, and machine learning approaches, all implemented in Python. Each notebook demonstrates practical and real-world applications.
 
 ---
 
@@ -62,12 +62,6 @@ Welcome to my Natural Language Processing (NLP) portfolio! This repository showc
 
 ---
 
-## 📈 Example Visuals
-
-> _Add screenshots or sample plots from your notebooks here for extra impact!_
-
----
-
 ## 🚀 Get Started
 
 1. Clone the repo
@@ -82,3 +76,4 @@ Welcome to my Natural Language Processing (NLP) portfolio! This repository showc
 - **Mail Id:** [Mail Id](mailto:mohiduz03@gmail.com)
 
 ---
+
